@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming, Computers and Gaming.
 - 🌱 I’m currently learning python and studying BS Software Engineering.
 - 📫 Contact me on my mail -- faizi123alii123@gmail.com
+#Future_Programmer( InshaAllah )
 
 <!---
 FaaizAlii/FaaizAlii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
