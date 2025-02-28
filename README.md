@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Faaiz_Ali_Tariq
+- 👋 Hi, I’m Faaiz_Ali_Tariq
 - 👀 I’m interested in Programming, Computers and Gaming.
-- 🌱 I’m currently learning python and studying BS Software Engineering.
-#Future_Programmer( InshaAllah )
-
-<!---
-FaaizAlii/FaaizAlii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m a Backend Engineer working in Python with different web frameworks like Django, Flask, FastAPIs.
